@@ -1,0 +1,26 @@
+{
+  "name": "plop-helper-git-config",
+  "version": "1.0.0",
+  "description": "A Plop (www.plopjs.com) helper to read git config values.",
+  "main": "index.js",
+  "files": [],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mikenikles/plop-helper-git-config.git"
+  },
+  "keywords": [
+    "plop",
+    "plop-helper"
+  ],
+  "author": "Mike Nikles, @mikenikles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikenikles/plop-helper-git-config/issues"
+  },
+  "homepage": "https://github.com/mikenikles/plop-helper-git-config#readme",
+  "dependencies": {
+    "git-config-path": "^2.0.0",
+    "lodash": "^4.17.15",
+    "parse-git-config": "^3.0.0"
+  }
+}
